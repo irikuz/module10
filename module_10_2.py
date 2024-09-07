@@ -32,4 +32,4 @@ second_knight.start()
 first_knight.join()
 second_knight.join()
 
-print('Все битвы завершены! Враг разгромлен!')
+print('Все битвы закончились!')
