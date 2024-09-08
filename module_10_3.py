@@ -16,7 +16,7 @@ class Bank:
             amount = random.randint(50, 500)
             self.balance += amount
             print(f'Пополнение: {amount}. Баланс: {self.balance}')
-            sleep(0.01)
+            sleep( 0.001)
 
     def take(self):
         for i in range(100):
